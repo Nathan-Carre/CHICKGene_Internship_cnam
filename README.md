@@ -1,5 +1,10 @@
 # CHIKGene — Differential Expression Analysis (DEG)
 
+## Introduction
+Ce dépôt décrit en détail la démarche à suivre pour reproduire les analyses de gènes différentiellement exprimés (DEG) menées dans le cadre du stage de Master 2 sur la cohorte CHIKGene. Tous les scripts et étapes nécessaires y sont présentés afin de permettre une réexécution transparente de l’analyse.
+Pour des raisons de confidentialité et de protection des données patients, les fichiers de comptage et les fichiers phénotypes (données cliniques) ne peuvent pas être publiés ici. Le dépôt ne contient donc que les scripts et instructions permettant de les utiliser une fois les données disponibles en interne.
+
+
 ## Contexte
 Ce projet regroupe les analyses de gènes différentiellement exprimés (DEG) réalisées dans le cadre du stage de Master 2 sur la cohorte CHIKGene (données PBMCs RNA-seq). Les analyses visent à identifier des signatures transcriptomiques associées à différents symptômes chroniques post-infection Chikungunya (DMS, FCI, cardiopathies, diabète, double-atteinte...)
 
