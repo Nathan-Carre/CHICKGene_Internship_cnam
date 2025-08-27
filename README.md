@@ -67,5 +67,5 @@ Les listes de gènes up/down (pvalue < 0.05, |log2FC| > 0.7) issues des fichiers
 
 ## Conseils
 - Bien installer tous les packages nécessaire et vérifier leur bon fonctionnement
-- Vérifier le sens du contraste (case vs control) avant interprétation.
-- Respecter la construction des matrices (0/1/2) pour exclure les groupes non pertinents dans les design.
+- Vérifier le sens du contraste (case vs control) avant interprétation
+- Respecter la construction des matrices (0/1/2) pour exclure les groupes non pertinents dans les design
